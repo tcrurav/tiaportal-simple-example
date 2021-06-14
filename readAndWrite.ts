@@ -60,7 +60,7 @@ async function main() {
             nodeId: 'ns=3;s="Bloque de datos_2"."datos_recibir"."box_id"',
             // nodeId: 'ns=3;s="Bloque de datos_1"."puerta"',
             attributeId: AttributeIds.Value,
-            indexRange: null,
+            // indexRange: null,
             value: {
                 value: {
                     dataType: DataType.SByte,
@@ -72,7 +72,7 @@ async function main() {
             nodeId: 'ns=3;s="Bloque de datos_2"."datos_recibir"."open_box"',
             // nodeId: 'ns=3;s="Bloque de datos_1"."puerta"',
             attributeId: AttributeIds.Value,
-            indexRange: null,
+            // indexRange: null,
             value: {
                 value: {
                     dataType: DataType.SByte,
@@ -84,7 +84,7 @@ async function main() {
             nodeId: 'ns=3;s="Bloque de datos_2"."datos_recibir"."closed_box"',
             // nodeId: 'ns=3;s="Bloque de datos_1"."puerta"',
             attributeId: AttributeIds.Value,
-            indexRange: null,
+            // indexRange: null,
             value: {
                 value: {
                     dataType: DataType.SByte,
